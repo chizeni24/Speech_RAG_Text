@@ -1,0 +1,120 @@
+﻿Echizeni Ikpah
+Echizeni24@gmail.com | Linkedin |Blog| Github  | Austin, TX
+OBJECTIVE                
+I am a dynamic and results-driven AI Engineer with expertise in Large Language Models (LLMs), MLOps, and AI solutions, specializing in designing scalable, fault-tolerant systems that optimize workflows and drive business success. With extensive experience collaborating with sales teams and technical stakeholders, I excel in managing all phases of POCs/POVs, data migration, training development, and post-go-live support. Passionate about delivering measurable value, I bridge technical excellence with business goals by conducting engaging product demonstrations, translating complex challenges into actionable strategies, and fostering long-term partnerships through effective communication and collaboration. 
+TECHNICAL PROFICIENCY                 
+* Programming Language: Python, C++, GoLang, SQL, Bash Script, Java, Tensorflow, Scikit
+* Big Data Tools: PostgreSQL, MongoDB, Snowflake, Casandra, GraphQL, Spark, Grafana
+* Analytics and CRM: Tableau, PowerBI, AWS Athena, Confluence, Jira, Quicksight, ServiceNow
+* Cloud & DevOps: Kubernetes, Dockers, Terraform, MLFlow, GitHub Actions, Jenkins, AWS, Azure
+
+
+CERTIFICATIONS                
+* AWS Solutions Architect
+* AWS Machine Learning Foundation 
+* AWS Machine Learning Specialty         
+* Artificial Intelligence with Python 
+* Databricks Lakehouse Fundamentals
+* Project Management Professional (PMP)®
+
+
+PROFESSIONAL EXPERIENCE                
+AI Engineer (LLMOps)
+REEMedical
+February 2024 - Present
+* Delivered technical training during POCs and implementations, achieving 95% customer adoption and positive feedback.
+* Automated workflows to cut manual tasks by 50%, saving clients over 1,000 work hours annually.
+* Established monitoring systems for machine learning models, reducing downtime by 50% and optimizing AI deployment.
+* Built scalable, fault-tolerant data pipelines for projects, improving data quality metrics by 45% to support analytics and decision-making.
+* Led strategic data migration initiatives, collaborating closely with internal teams and clients to assess AI project
+needs and expectations, ensuring seamless and secure healthcare data transfer across systems.
+* Automated complex processes and integrated systems to streamline workflows and improve operational
+efficiency, leveraging strong project management skills to drive feasibility assessments for incoming AI project
+requests and identify areas for optimization.
+* Managed the delivery and deployment of computer vision models for drafting medical reports, spearheading the
+LLM operations and collaborating with developers to ensure alignment with project scope and objectives within
+the discovery process.
+* Planned and coordinated data efforts with directors and C-suites and disseminated the information workflow
+across teams, effectively communicating project updates and addressing client inquiries promptly while
+Continuously assess and optimize AI project intake processes to enhance value delivery.
+* Collaborated with cross-functional teams to integrate customer feedback into AI-driven product enhancements, ensuring solutions addressed key pain points, optimized workflows, and consistently exceeded customer expectations.
+Machine Learning Engineer (MLOps)
+Onyx Ocean Technologies
+April 2022 - January 2024
+* Led the end-to-end design and implementation of MLOps workflows using Azure Machine Learning and Kubernetes (AKS), contributing to 75% of the project's success by improving deployment efficiency by 40% and reducing time-to-market by 30% while showcasing technical feasibility to prospective clients.
+* Partnered with presales teams to demonstrate CI/CD pipeline integration and automated testing for machine learning models, addressing customer challenges and enabling a 25% faster model development cycle, reducing integration issues by 50%.
+* Developed and presented custom scripts for automating MLOps tasks, highlighting the platform's ability to achieve 80% smoother data preparation and feature engineering, reducing manual effort by 60% and accelerating model training by 20%.
+* Conducted performance testing and optimization sessions with customers, achieving a 30% improvement in model response time and enhancing scalability, reliability, and overall confidence in the solution's capabilities.
+* Collaborated with software engineers and DevOps teams to drive 90% successful integration of ML components into customer systems, reducing integration challenges by 40% and delivering seamless implementations that addressed client requirements.
+* Provided technical demonstrations and proof-of-concept (POC) designs during the presales process, effectively articulating the value of MLOps workflows to stakeholders and securing buy-in for enterprise-scale deployments.
+Data Scientist (Research)
+The University of Texas at San Antonio
+January 2019 - January 2022
+* Leveraged information search and literature reviews to identify best practices for software development and deployment, resulting in more efficient and cost-effective delivery of projects.
+* Set up and maintain CI/CD pipelines using Git and GitHub, allowing for automated testing, code reviews, and rapid deployment of changes to production environments.
+* Developed and deployed Bash and Python scripts to automate data acquisition, transformation, and analysis processes, resulting in a 30% improvement in predictive model performance.
+* Optimized Explainable Artificial intelligence model training time by 80% through High-Performance Clusters (HPC) and automation of pipeline and writing scalable code that significantly reduced the time-to-insight for stakeholders
+* Presented insights and results to stakeholders through Tableau dashboards, documented manuscripts, and uploaded them for easy access and reusability, enabling effective team communication and collaboration.
+Business Operations Manager 
+Nubain Development Limited
+May 2017 - January 2019
+* Raised $380k+ by collaborating with the Architect and Engineering team, creating project plans, designs, and
+schedules for marketing campaigns to attract investors—presented potential ROI.
+* Led the successful migration of the company's infrastructure to the cloud, resulting in a 30% cost reduction and a
+50% increase in scalability; implemented infrastructure as code using Terraform and built automated pipelines
+with Jenkins for continuous integration and deployment.
+* Collaborate with the sales team and technical stakeholders to qualify opportunities, conduct demonstrations, respond to RFPs, and develop cost estimates for project delivery, translating client business issues into valuable solutions.
+* Developed and executed a detailed project plan for a complex initiative, reducing timeline variances by 20% and
+achieving on-time project delivery, exceeding client expectations; KPI - On-time project delivery rate.
+* Conducted market analysis, identified strategic partnerships, and executed a growth strategy, resulting in a 15%
+increase in the client base and a 25% boost in annual revenue; KPI - Revenue growth rate.
+* Managed project budgets, optimized resource utilization, and implemented cost-saving measures, reducing
+expenses by 15% and improving overall profitability; KPI - Project cost variance.
+* Enhanced collaboration and engagement between the team and stakeholders by creating a Common Data
+Environment (CDE) and improving information security by granting the least privilege policy access to models;
+BIM collaboration and clash detection reduced project delivery time by 22% to ensure data quality.
+
+
+KEY PROJECTS                
+Chatbot deployed using GitHub Actions.
+Technology Used: OpenAI API – Chatgpt-3.5, Python, GitHub Actions, HuggingFace Space.
+* OpenAI API was parsed to access a large language model (LLM) with an initial prompt to respond in the likeness of philosopher  Marcus Aurelius.
+* The front end was built with the gradio framework in Python, and GitHub actions were set on GitHub to deploy in Huggingface space automatically.
+
+
+
+
+Anomaly Detection in Transaction Data
+Technology Used: Python, Keras, TensorFlow, Flask, Gunicorn, Pandas, Numpy, matplotlib
+* Developed and tuned a deep learning Autoencoder model in Keras and TensorFlow to detect anomalies in over 100K transaction data points, enhancing fraud detection capabilities.
+* Performed comprehensive EDA and data preprocessing, including normalization and imputation, to ensure optimal model training and accuracy.
+* Successfully deployed the model as a real-time prediction API service using Flask and Gunicorn, integrating it with cross-functional team objectives for practical business application.
+
+
+Medical Search Engines with LLM
+Technology Used: Python, GitHub, Word2Vec, Transformers, pandas, numpy, Plotly, Gensim, Nltk.
+* I developed a medical search engine using word embeddings with Word2vec and FastText on a COVID-19 dataset.
+* Used a Transformer model to create the search engine and deployed it on Streamlit cloud service.
+
+EDUCATION                
+University of Texas at San Antonio
+  Master of Data Science 
+      2021
+Cardiff University 
+  Master of Civil Engineering
+2016
+Cardiff University 
+  Bachelor of Civil Engineering
+2015
+LEADERSHIP                 
+US Army Reserves                        
+Automated Logistic Specialist (E4)
+July 2024 - Present
+* Manage and maintain automated logistics systems to ensure accurate inventory tracking and efficient supply chain operations, supporting mission-critical readiness.
+* Coordinate the procurement, storage, and distribution of military equipment and supplies, ensuring seamless support for operational deployments.
+* Train and mentor team members on logistics processes and automated systems, enhancing unit efficiency and preparedness.
+The University of Texas at San Antonio        
+President of Women in Transportation Seminar                                        
+January 2021 - December 2021
+* Organized monthly general meetings - invited industry professionals to present projects to encourage students, especially women, to join transportation and engineering.
+* Increased membership by 60% through on-campus campaigns and volunteered and tutored undergraduates in the Python programming language.
